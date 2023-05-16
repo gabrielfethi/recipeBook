@@ -1,0 +1,19 @@
+{
+  "name": "recipebook",
+  "version": "1.0.0",
+  "description": "Recipe Book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielfethi/recipeBook.git"
+  },
+  "author": "Gabriel Guloglu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielfethi/recipeBook/issues"
+  },
+  "homepage": "https://github.com/gabrielfethi/recipeBook#readme"
+}
